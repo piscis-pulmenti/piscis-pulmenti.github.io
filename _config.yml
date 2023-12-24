@@ -28,7 +28,7 @@ twitter_username: piscis-pulmenti
 github_username:  piscis-pulmenti
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
