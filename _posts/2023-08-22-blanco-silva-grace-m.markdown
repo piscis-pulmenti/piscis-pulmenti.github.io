@@ -5,6 +5,13 @@ date:   2023-08-22 16:37:38 -0500
 categories: jekyll update
 ---
 
+<style type="text/css" media="screen">
+  table {
+    width: 90%;
+  }
+</style>
+
+
 # Snapshot
 
 Hello Grace
