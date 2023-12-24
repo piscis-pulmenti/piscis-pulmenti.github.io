@@ -22,7 +22,7 @@ Hello Grace
 ## Transaction History
 
 | Date         | Description                                  | Amount  | Balance |
-| ---:         | ---------------------:                       | ------: | ------: |
+| ---:         | :--------------------                       | ------: | ------: |
 | Dec 01, 2023 |                                Interest Paid |   $9.41 | $223.20 |
 | Nov 04, 2023 | Internet transfer from Savings Acct XXXX8487 | $100.00 | $213.79 |
 | Nov 01, 2023 |                                Interest Paid |   $4.80 | $113.79 |
