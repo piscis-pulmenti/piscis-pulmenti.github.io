@@ -21,8 +21,8 @@ Hello Ian F.
 | Checking         | Available    | Current     | Interest YTD | Annual Percentage Yield |
 | :-------         | --------:    | ------:     | -----------: | ----------------------: |
 | Savings Account  |      $111.60 |     $111.60 |       $11.60 |                   4.40% |
-| Spending Account |        $0.00 |       $0.00 |        $0.00 |                   0.10% |
-| **TOTAL**        |  **$111.60** | **$111.60** |   **$11.60** |                         |
+| Spending Account |        $5.00 |       $5.00 |        $0.00 |                   0.10% |
+| **TOTAL**        |  **$116.60** | **$116.60** |   **$11.60** |                         |
 
 # Savings Account
 
@@ -43,8 +43,8 @@ Hello Ian F.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
-| Dec 01, 2023 |                                Interest Paid |   $0.00 |   $0.00 |
-| Nov 01, 2023 |                                Interest Paid |   $0.00 |   $0.00 |
-| Oct 01, 2023 |                                Interest Paid |   $0.00 |   $0.00 |
-| Sep 01, 2023 |                                Interest Paid |   $0.00 |   $0.00 |
-| Aug 22, 2023 |                       PISPUL BANK DIRECT DEP |   $0.00 |   $0.00 |
+| Dec 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
+| Nov 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
+| Oct 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
+| Sep 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 | 
+| Aug 22, 2023 |                       PISPUL BANK DIRECT DEP |   $5.00 |   $5.00 |
