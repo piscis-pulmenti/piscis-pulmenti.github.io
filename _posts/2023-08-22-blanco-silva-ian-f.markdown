@@ -20,9 +20,9 @@ Hello Ian F.
 
 | Checking         | Available    | Current     | Interest YTD | Annual Percentage Yield |
 | :-------         | --------:    | ------:     | -----------: | ----------------------: |
-| Savings Account  |      $111.60 |     $111.60 |       $11.60 |                   4.40% |
+| Savings Account  |      $115.10 |     $115.10 |       $11.60 |                   4.40% |
 | Spending Account |        $5.00 |       $5.00 |        $0.00 |                   0.10% |
-| **TOTAL**        |  **$116.60** | **$116.60** |   **$11.60** |                         |
+| **TOTAL**        |  **$120.10** | **$120.10** |   **$11.60** |                         |
 
 # Savings Account
 
@@ -30,6 +30,7 @@ Hello Ian F.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
+| Dec 29, 2023 | Internet transfer from Savings Acct XXXX8487 |   $3.50 | $115.10 |
 | Dec 01, 2023 |                                Interest Paid |   $4.70 | $111.60 |
 | Nov 04, 2023 | Internet transfer from Savings Acct XXXX8487 |  $50.00 | $106.90 |
 | Nov 01, 2023 |                                Interest Paid |   $2.40 |  $56.90 |
