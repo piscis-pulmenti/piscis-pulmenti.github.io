@@ -30,7 +30,7 @@ Hello Ian F.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
-| Dec 29, 2023 | Internet transfer from Savings Acct XXXX8487 |   $3.50 | $115.10 |
+| Dec 29, 2023 | ALLOWANCE (BNK PAYROLL)                      |   $3.50 | $115.10 |
 | Dec 01, 2023 |                                Interest Paid |   $4.70 | $111.60 |
 | Nov 04, 2023 | Internet transfer from Savings Acct XXXX8487 |  $50.00 | $106.90 |
 | Nov 01, 2023 |                                Interest Paid |   $2.40 |  $56.90 |
