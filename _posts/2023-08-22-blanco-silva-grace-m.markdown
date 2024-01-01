@@ -20,9 +20,9 @@ Hello Grace M.
 
 | Checking         | Available    | Current     | Interest YTD | Annual Percentage Yield |
 | :-------         | --------:    | ------:     | -----------: | ----------------------: |
-| Savings Account  |      $116.60 |     $116.60 |       $11.60 |                   4.40% |
+| Savings Account  |      $122.04 |     $122.04 |        $5.14 |                   4.40% |
 | Spending Account |        $5.00 |       $5.00 |        $0.00 |                   0.10% |
-| **TOTAL**        |  **$121.60** | **$121.60** |   **$11.60** |                         |
+| **TOTAL**        |  **$126.04** | **$126.04** |    **$5.14** |                         |
 
 # Savings Account
 
@@ -30,6 +30,7 @@ Hello Grace M.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
+| Jan 01, 2024 |                                Interest Paid |   $5.14 | $122.04 |
 | Dec 29, 2023 | ALLOWANCE (BNK PAYROLL)                      |   $5.00 | $116.90 |
 | Dec 01, 2023 |                                Interest Paid |   $4.70 | $111.60 |
 | Nov 04, 2023 | Internet transfer from Savings Acct XXXX8487 |  $50.00 | $106.90 |
@@ -44,6 +45,7 @@ Hello Grace M.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
+| Jan 01, 2024 |                                Interest Paid |   $0.00 |   $5.00 |
 | Dec 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
 | Nov 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
 | Oct 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
