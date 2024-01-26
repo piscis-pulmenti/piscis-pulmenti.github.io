@@ -20,9 +20,9 @@ Hello Grace M.
 
 | Checking         | Available    | Current     | Interest YTD | Annual Percentage Yield |
 | :-------         | --------:    | ------:     | -----------: | ----------------------: |
-| Savings Account  |      $116.04 |     $116.04 |        $5.14 |                   4.40% |
+| Savings Account  |      $121.04 |     $121.04 |        $5.14 |                   4.40% |
 | Spending Account |        $5.00 |       $5.00 |        $0.00 |                   0.10% |
-| **TOTAL**        |  **$121.04** | **$121.04** |    **$5.14** |                         |
+| **TOTAL**        |  **$126.04** | **$126.04** |    **$5.14** |                         |
 
 # Savings Account
 
@@ -30,6 +30,7 @@ Hello Grace M.
 
 | Date         | Description                                  | Amount                                 | Balance |
 | :---         | :--------------------                        | ------:                                | ------: |
+| Jan 26, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $121.04 |
 | Jan 19, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $116.04 |
 | Jan 12, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $111.04 |
 | Jan 11, 2024 | Withdraw                                     | <span style="color:red">-$22.00</span> | $106.04 |
