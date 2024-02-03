@@ -20,9 +20,9 @@ Hello Grace M.
 
 | Checking         | Available    | Current     | Interest YTD | Annual Percentage Yield |
 | :-------         | --------:    | ------:     | -----------: | ----------------------: |
-| Savings Account  |      $121.04 |     $121.04 |        $5.14 |                   4.40% |
+| Savings Account  |      $131.37 |     $131.37 |       $10.47 |                   4.40% |
 | Spending Account |        $5.00 |       $5.00 |        $0.00 |                   0.10% |
-| **TOTAL**        |  **$126.04** | **$126.04** |    **$5.14** |                         |
+| **TOTAL**        |  **$136.37** | **$136.37** |   **$10.47** |                         |
 
 # Savings Account
 
@@ -30,6 +30,8 @@ Hello Grace M.
 
 | Date         | Description                                  | Amount                                 | Balance |
 | :---         | :--------------------                        | ------:                                | ------: |
+| Feb 02, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $131.37 |
+| Feb 01, 2024 |                                Interest Paid |   $5.33                                | $126.37 |
 | Jan 26, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $121.04 |
 | Jan 19, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $116.04 |
 | Jan 12, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $111.04 |
@@ -50,6 +52,7 @@ Hello Grace M.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
+| Feb 01, 2024 |                                Interest Paid |   $0.00 |   $5.00 |
 | Jan 01, 2024 |                                Interest Paid |   $0.00 |   $5.00 |
 | Dec 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
 | Nov 01, 2023 |                                Interest Paid |   $0.00 |   $5.00 |
