@@ -30,6 +30,7 @@ Hello Grace M.
 
 | Date         | Description                                  | Amount                                 | Balance |
 | :---         | :--------------------                        | ------:                                | ------: |
+| Feb 03, 2024 | Withdraw                                     | <span style="color:red">-$20.00</span> | $111.37 |
 | Feb 02, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $131.37 |
 | Feb 01, 2024 |                                Interest Paid |   $5.33                                | $126.37 |
 | Jan 26, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $5.00                                | $121.04 |
