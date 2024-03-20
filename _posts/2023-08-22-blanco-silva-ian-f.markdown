@@ -20,9 +20,9 @@ Hello Ian F.
 
 | Checking         | Available    | Current     | Interest YTD | Annual Percentage Yield |
 | :-------         | --------:    | ------:     | -----------: | ----------------------: |
-| Savings Account  |      $168.88 |     $168.88 |       $17.78 |                   4.35% |
+| Savings Account  |      $172.38 |     $172.38 |       $17.78 |                   4.35% |
 | Spending Account |        $5.00 |       $5.00 |        $0.00 |                   0.10% |
-| **TOTAL**        |  **$173.88** | **$173.88** |   **$17.78** |                         |
+| **TOTAL**        |  **$177.38** | **$177.38** |   **$17.78** |                         |
 
 # Savings Account
 
@@ -30,6 +30,7 @@ Hello Ian F.
 
 | Date         | Description                                  | Amount  | Balance |
 | :---         | :--------------------                        | ------: | ------: |
+| Mar 15, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $3.50 | $172.38 |
 | Mar 08, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $3.50 | $168.88 |
 | Mar 01, 2024 | ALLOWANCE (BNK PAYROLL)                      |   $3.50 | $165.38 |
 | Mar 01, 2024 |                                Interest Paid |   $6.82 | $161.88 |
